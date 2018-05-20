@@ -1,0 +1,12 @@
+com\depsinspring\proj\controller\HomeController.class
+com\depsinspring\proj\config\SprindWebConfig.class
+com\depsinspring\proj\controller\EmployeeController.class
+com\depsinspring\proj\persistence\entity\MyEntity.class
+com\depsinspring\proj\controller\DepartmentController.class
+com\depsinspring\proj\service\EmployeeController.class
+com\depsinspring\proj\persistence\dao\DAO.class
+com\depsinspring\proj\persistence\entity\Employee.class
+com\depsinspring\proj\config\WebAppInit.class
+com\depsinspring\proj\service\DepartmentService.class
+com\depsinspring\proj\persistence\entity\Department.class
+com\depsinspring\proj\config\SpringConfig.class
